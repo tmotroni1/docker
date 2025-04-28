@@ -47,4 +47,4 @@ curl localhost:8000
 Você deverá receber a seguinte mensagem como resposta:
 
 Hello world!
-Essa versão reescrita mantém a mesma explicação, mas com uma forma diferente de apresentação.
+Essa versão
